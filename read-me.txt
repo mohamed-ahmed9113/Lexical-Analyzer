@@ -1,0 +1,9 @@
+In this program we have the following files
+ 1- input.txt which should contain all regualr definitions and regular expressions 
+     You should read all the assumptions well to make this file.
+ 2- test.txt which will contain he program that you want to operate on it and.
+ 3- symbol_table.txt which will contain the symbol table of the output which have many entries
+    each of them has name and value.
+ 4- out.txt which has the final output.
+
+ ---> You can run the proram using any IDE
